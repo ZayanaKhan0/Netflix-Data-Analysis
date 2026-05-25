@@ -50,8 +50,6 @@ Netflix Movies and TV Shows Dataset
 ## Files Included
 - `netflix_analysis.ipynb`
 - `netflix_titles.csv`
-- `cleaned_netflix_data.csv`
-- `movies_vs_tvshows.png`
 
 ---
 
